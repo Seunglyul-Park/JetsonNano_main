@@ -4,12 +4,16 @@
 
 두개의 SBC가 사용되었습니다.
 1) nvidia 사의 jetson nano board : 영상처리 후 사람, 멧돼지, 고라니 판단   ->   이동 및 퇴치 신호
-    -opencv2로 영상 처리
-    -pthread 사용
-    -GPIO를 사용해 퇴치 LED 점멸
+-opencv2로 영상 처리
+-pthread 사용
+-GPIO를 사용해 퇴치 LED 점멸
+
+
     
 2) robotis 사의 OpenCR 1.0 : Dynamicsel 구동
     -manipulator 2개, 짐벌 1개 제어
+    
+    
 
 
 
