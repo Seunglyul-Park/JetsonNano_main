@@ -4,9 +4,9 @@
 
 두개의 SBC가 사용되었습니다.
 1) nvidia 사의 jetson nano board : 영상처리로 사람/멧돼지/고라니 판단
--opencv2로 영상 처리
--pthread 사용
--GPIO를 사용해 퇴치 LED 점멸
+opencv2로 영상 처리
+pthread 사용
+GPIO를 사용해 퇴치 LED 점멸
 
 
     
