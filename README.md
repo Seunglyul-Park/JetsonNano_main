@@ -2,8 +2,8 @@
 
 로프웨이를 이용한 유해야생동물 퇴치기 소스코드입니다.
 
-# 두개의 SBC가 사용되었습니다.
-nvidia 사의 jetson nano board : 영상처리로 사람/멧돼지/고라니 판단
+두개의 SBC가 사용되었습니다.
+# nvidia 사의 jetson nano board : 영상처리로 사람/멧돼지/고라니 판단
 
 
 opencv2로 영상 처리
