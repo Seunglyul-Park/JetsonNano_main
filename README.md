@@ -20,14 +20,11 @@ GPIO를 사용해 퇴치 LED 점멸
 manipulator 2개, 짐벌 1개 제어
 
 
-dynamicsel protocol 2.0 
+    dynamicsel protocol 2.0 
+    manipulator : MX-64 3개와 XL430 2개
+    짐벌 : XL330 3개
 
-
-manipulator : MX-64 3개와 XL430 2개
-
-
-짐벌 : XL330 3개
-
+IMU센서로 짐벌 수평 제어
 
 # 통신
 두 SBC 간의 통신은 serial 통신(UART)을 사용하였습니다.
