@@ -1,5 +1,3 @@
-//공폐 최종
-
 #include <Dynamixel2Arduino.h>
 #include <IMU.h>
 
